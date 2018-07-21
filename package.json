@@ -10,7 +10,7 @@
     "yargs": "^7.0.2",
     "iobroker.discovery": "stable",
     "iobroker.admin": "stable",
-    "iobroker.js.controller": "stable"
+    "iobroker.js-controller": "stable"
   },
   "homepage": "http://iobroker.net",
   "description": "automate your life - platfom",
