@@ -8,6 +8,7 @@
   "dependencies": {
     "semver": "^5.5.0",
     "yargs": "^7.0.2",
+    "recursive-copy": "^2.0.8",
     "iobroker.discovery": "stable",
     "iobroker.admin": "stable",
     "iobroker.js-controller": "stable"
